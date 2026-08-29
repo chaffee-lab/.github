@@ -2,8 +2,7 @@ _In Memory of Riana Azad (1996 – ∞)_
 
 _Riana Azad, more than a co-founder. A friend, a thinker, and a spark behind everything we built. Her ideas and spirit continue to shape every project we touch. She’s always there, watching from above._
 
-
-# Welcome to IntellWe (RRR)
+---
 
 IntellWe is your innovative hub for AI-driven solutions designed to simplify, automate, and enhance everyday tasks. We leverage state-of-the-art artificial intelligence to craft intuitive products that seamlessly integrate into daily life.
 
